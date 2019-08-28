@@ -1,0 +1,27 @@
+Add clarity of what is happening in your presentation by using video recording. The video playback will fully show all your actions during the task.
+
+Always try running malware on different operating systems. For example, some malware, which uses the security bypass techniques will work only on Windows 7 or Windows 10.
+
+No limit for the number of interactive analyses on ANY.RUN! Explore the malware again and again until you get the desired result. No more pain thinking about how many checks you have left.
+
+Not all malicious programs go into the active phase immediately after the launch. Take your time to perform all the planned actions that will fully reveal the attack vector.
+
+Export summary and IOC report to JSON format, or export all significant events from a task to MISP for further analysis and importing to IDS/SIEM systems.
+
+Track all system processes to get the most accurate result in addition to tracking suspicious activity in related processes (WMI, COM, MSI, Tasks Scheduler).
+
+Want to share a printed version of analysis with your colleagues? Use the HTML version of ANY.RUN! It includes all the information from the analysis without external dependencies.
+
+Use the Fakenet feature on malware like Emotet to overtake all HTTP requests and return 404 error, forcing malware to reveal all of its C2 links.
+
+Some types of malware in a view of their features can work only on a 64-bit operating system. It is just an absolutely necessary feature for you to see the full vector of the attack.
+
+
+Look inside the TLS protocol, get domains, links, request headers and the content of request and response connections to the command and control server with the MITM (man in the middle) feature.
+
+Choose the browser from the list to run the URL analysis or download content with a custom user-agent header. Leave no chance for the phishing attack to be undetected!
+
+
+We strive to save the time of our premium users, so you can do more! Using Hunter plan you always will have priority launching your task. Use your time wisely!
+
+Our service uses Suricata IDS. We offer the most accurate and fresh rulesets from premium providers, such as Proofpoint (Emerging Threats) and Positive Technologies at paid rates.
